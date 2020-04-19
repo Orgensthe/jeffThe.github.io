@@ -1,5 +1,4 @@
-(https://images.unsplash.com/photo-1494548162494-384bba4ab999?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
-## Jeff we
+![exercise pirture](/images/logo.png)## Jeff we
 
 You can use the [editor on GitHub](https://github.com/Orgensthe/orgensthe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
