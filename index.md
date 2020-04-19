@@ -1,4 +1,4 @@
-## Jeff we
+![GitHub Logo](/images/logo.png)## Jeff we
 
 You can use the [editor on GitHub](https://github.com/Orgensthe/orgensthe.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
